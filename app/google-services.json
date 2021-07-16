@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "523948485861",
+    "firebase_url": "https://flibiicab.firebaseio.com",
+    "project_id": "flibiicab",
+    "storage_bucket": "flibiicab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523948485861:android:42dd47ba07a725d315380c",
+        "android_client_info": {
+          "package_name": "flibii.chat.flibiicab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523948485861-01go17evucpm7mmf08hd797rhb4opnah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBomRmNxBWme0fc9gdpJyw2dAYehrN8XRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523948485861-01go17evucpm7mmf08hd797rhb4opnah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
